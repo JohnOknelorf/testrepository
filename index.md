@@ -1,4 +1,4 @@
-[](#page-start)
+<a name="page-start"></a>
 
 ---
 layout: default
