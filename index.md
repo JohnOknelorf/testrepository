@@ -124,4 +124,5 @@ Long, single-line code blocks should not wrap. They should horizontally scroll i
 The final element.
 ```
 
-[Back To Top](#page-start)
+[Back To Top (custom link)](#page-start)
+[Back to Header 1 (auto-generated link)](#header-1)
